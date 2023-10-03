@@ -1,2 +1,2 @@
 # Fullstop
-Libgdx game, stop the raging ball using finger flicks
+Libgdx game, stop the raging ball using finger flicks.
